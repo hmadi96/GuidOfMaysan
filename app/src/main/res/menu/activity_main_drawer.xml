@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_placeholder"
+            android:title="@string/menu_about_maysan" />
+        <item
+            android:id="@+id/nav_about_code"
+            android:icon="@drawable/ic_information"
+            android:title="@string/menu_code_for_iraq" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_tools"
+            android:title="@string/menu_tools" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_paper_plane"
+                android:title="@string/menu_send" />
+            <item
+                android:id="@+id/nav_about_designer"
+                android:icon="@drawable/ic_computer"
+                android:title="@string/about_designer" />
+
+    </group>
+</menu>

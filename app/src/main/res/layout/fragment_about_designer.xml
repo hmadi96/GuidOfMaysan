@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/ic_im" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_designer"
+        app:cardBackgroundColor="?attr/cardbackground"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        app:cardElevation="7dp"
+        app:cardCornerRadius="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        >
+
+        <FrameLayout
+            android:background="@drawable/custom_edit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textColor="?attr/myTextColorAttr"
+                android:fontFamily="@font/cairo_regular"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:textSize="15sp"
+                android:text="@string/designers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                />
+        </FrameLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

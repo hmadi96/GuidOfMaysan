@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دليل ميسان</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_subtitle">mohmeed.qassim@codeforiraq.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_about_maysan">عن ميسان</string>
+    <string name="menu_code_for_iraq">عن المبادرة</string>
+    <string name="menu_tools">الاعدادات</string>
+    <string name="menu_send">اتصل بنا</string>
+    <string name="menu_exit">خروج</string>
+    <string name="about_designer">فريق العمل</string>
+    <string name="iraq">برمجه من اجل العراق</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hotel">فنادق</string>
+    <string name="mosque">مزارات دينية</string>
+    <string name="hospital">مستشفيات</string>
+    <string name="resturant">مطاعم</string>
+    <string name="marshes">سياحه واهوار</string>
+    <string name="language">اللغة</string>
+    <string name="dark_mode">مظلم</string>
+    <string name="default_theme">نهاري</string>
+    <string name="theme">لون النمط</string>
+    <string name="to">الى :</string>
+    <string name="subject">الموضوع :</string>
+    <string name="subjecte">الموضوع...</string>
+    <string name="message">الرسالة :</string>
+    <string name="send">ارسال</string>
+    <string name="gmail_message">لارسال الرسالة اختر تطبيق GMAIL</string>
+    <string name="more">المزيد</string>
+    <string name="location">الموقع</string>
+    <string name="click_here">اضغط هنا</string>
+    <string name="table_hotels">hotels</string>
+    <string name="table_mosque">mosque</string>
+    <string name="number">1</string>
+    <string name="tabls_hospital">hospital</string>
+    <string name="table_resturant">resturant</string>
+    <string name="table_marshes">tourism</string>
+    <string name="code_about">text_2.txt</string>
+    <string name="text_about">text.txt</string>
+    <string name="designers">اعضاء فريق ميسان</string>
+    <string name="code_desiger">
+      \n  صاحب الفكرة:-
+\nحيدر حبيب
+\nادرة المشروع:-
+\n1.احمد منير عبد
+\n2.حسين عبدالكاظم جاسم
+ \n3.علي حازم
+        \nالبرمجة:-
+\nمحمد قاسم
+\nتصميم التطبيق:-
+\n1.محمد قاسم
+\n2.زينب طاهر صاحب
+\n3.زينب رحيم
+\n4.حسين عبدالكاظم جاسم
+\n5.احمد منير عبد
+\n6.حسين علوش
+\nالخوارزمية:-
+\n1.رسل  جثير  والي
+\n2.زينب ماجد
+\n3.حسين عبدالكاظم جاسم
+\n4.احمد منير عبد
+       \nجمع المعلومات والصور:-
+\n1.حسين عبدالكاظم جاسم
+\n2.احمد منير عبد
+\n3.زينب طاهر صاحب
+\n4.نادية عبد مصعب
+\n5.محمد قاسم
+\n6.زينب رحيم ماشاف
+    </string>
+    <string name="soon">قريبا...</string>
+
+</resources>

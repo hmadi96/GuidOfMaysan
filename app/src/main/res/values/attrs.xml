@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dStylable">
+        <attr name="myTextColorAttr" format="color"/>
+        <attr name="mainBackgroundAttr" format="color"/>
+        <attr name="buttonBackgroundAttr" format="color"/>
+        <attr name="cardbackground" format="color"/>
+        <attr name="tintcolor" format="color"/>
+
+        <attr name="customButtonBackgroundAttr" format="color"/>
+        <attr name="customButtonClickedAttr" format="color"/>
+
+    </declare-styleable>
+</resources>

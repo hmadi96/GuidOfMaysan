@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Guid of Maysan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">mohmeed.qassim@codeforiraq.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about_maysan">About Maysan</string>
+    <string name="menu_code_for_iraq">About code for Iraq</string>
+    <string name="menu_tools">Settintgs</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_exit">Exit</string>
+    <string name="about_designer">Team works</string>
+    <string name="iraq">Code for Iraq</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hotel">Hotel</string>
+    <string name="mosque">The holy places</string>
+    <string name="hospital">Hospitals</string>
+    <string name="resturant">Resturant</string>
+    <string name="marshes">Tourism</string>
+    <string name="language">language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="default_theme">Default Theme</string>
+    <string name="theme">Theme</string>
+    <string name="to">to :</string>
+    <string name="subject">Subject :</string>
+    <string name="subjecte">Subject...</string>
+    <string name="message">The Message :</string>
+    <string name="send">send</string>
+    <string name="gmail_message">Choose GMAIL</string>
+    <string name="more">More</string>
+    <string name="location">Location</string>
+    <string name="click_here">Click Here</string>
+    <string name="table_hotels">hotels</string>
+    <string name="table_mosque">mosque</string>
+    <string name="number">5</string>
+    <string name="tabls_hospital">hospital</string>
+    <string name="table_resturant">resturant</string>
+    <string name="table_marshes">tourism</string>
+    <string name="code_about">text_en_2.txt</string>
+    <string name="text_about">text_en.txt</string>
+    <string name="designers">اعضاء فريق ميسان</string>
+
+    <string name="code_desiger">
+      \n  صاحب الفكرة
+\nحيدر حبيب
+\nادرة المشروع
+\n1.احمد منير عبد
+        \n2.حسين عبدالكاظم جاسم
+ \n3.علي حازم
+
+        \n<b>البرمجة</b>
+\nمحمد قاسم
+\nتصميم التطبيق
+\n1.محمد قاسم
+\n2.زينب طاهر صاحب
+\n3.زينب رحيم
+\n4.حسين عبدالكاظم جاسم
+\n5.احمد منير عبد
+\n6.حسين علوش
+\n<b>الخوارزمية</b>
+\n1.رسل  جثير  والي
+\n2.زينب ماجد
+\n3.حسين عبدالكاظم جاسم
+\n4.احمد منير عبد
+       \n <b>جمع المعلومات والصور</b>
+\n1.حسين عبدالكاظم جاسم
+\n2.احمد منير عبد
+\n3.زينب طاهر صاحب
+\n4.نادية عبد مصعب
+\n5.محمد قاسم
+\n6.زينب رحيم ماشاف
+    </string>
+    <string name="soon">soon...</string>
+
+
+</resources>
