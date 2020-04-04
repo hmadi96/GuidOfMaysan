@@ -19,8 +19,8 @@ class InfoViewHolder extends RecyclerView.ViewHolder {
     //TextView personId,personAge, personName;
     TextView name;
     ImageView imageItem;
-    Button buttonItem,bottonMoreItem;
-
+    Button buttonItem;
+    CardView cardView ;
 
     InfoViewHolder(@NonNull View itemView) {
         super(itemView);
@@ -28,7 +28,8 @@ class InfoViewHolder extends RecyclerView.ViewHolder {
         name=itemView.findViewById(R.id.name);
         imageItem=itemView.findViewById(R.id.imageItem);
         buttonItem=itemView.findViewById(R.id.bottonItem);
-        bottonMoreItem=itemView.findViewById(R.id.bottonMoreItem);
+      //  bottonMoreItem=itemView.findViewById(R.id.bottonMoreItem);
+         cardView=itemView.findViewById(R.id.cardMoreItem);
 
     }
 }

@@ -68,7 +68,7 @@
 
             <EditText
                 android:textColor="?attr/myTextColorAttr"
-                android:padding="10dp"
+                android:padding="12dp"
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/custom_edit1"
                 android:id="@+id/edit_text_message"

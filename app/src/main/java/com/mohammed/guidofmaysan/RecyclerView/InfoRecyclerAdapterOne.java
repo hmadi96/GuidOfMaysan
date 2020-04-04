@@ -65,7 +65,7 @@ public class InfoRecyclerAdapterOne extends RecyclerView.Adapter<InfoViewHolder>
         dialogItem = new Dialog(context);
         dialogItem.setContentView(R.layout.more_item);
         dialogItem.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
-      holder.bottonMoreItem.setOnClickListener(new View.OnClickListener() {
+      holder.cardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
            TextView nameItemMore =(TextView)dialogItem.findViewById(R.id.nameItemMore);

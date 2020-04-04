@@ -4,6 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_margin="10dp"
+    android:id="@+id/cardMoreItem"
     android:layout_marginLeft="15dp"
     android:layout_marginRight="15dp"
     app:cardCornerRadius="12dp"
@@ -67,9 +68,9 @@
                 android:background="@drawable/ic_map"
                 android:layout_gravity="start"
                 style="@style/Widget.AppCompat.Button.Borderless"
-                android:layout_toLeftOf="@id/bottonMoreItem"
+               android:layout_alignParentRight="true"
                 tools:ignore="ContentDescription" />
-            <Button
+         <!--   <Button
                 android:textAllCaps="false"
                 android:id="@+id/bottonMoreItem"
                 android:textColor="?attr/myTextColorAttr"
@@ -81,6 +82,7 @@
                 android:layout_margin="5dp"
                 android:layout_alignParentRight="true"
                 tools:ignore="ContentDescription" />
+                -->
         </RelativeLayout>
     </LinearLayout>
 </androidx.cardview.widget.CardView>

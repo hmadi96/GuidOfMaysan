@@ -35,9 +35,10 @@ public class HomePage extends AppCompatActivity {
         setSupportActionBar(toolbar);
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
+       // R.id.nav_setting
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_about, R.id.nav_about_code,
-                R.id.nav_setting, R.id.nav_send, R.id.nav_about_designer)
+                R.id.nav_home, R.id.nav_about, R.id.nav_about_code
+               , R.id.nav_send, R.id.nav_about_designer)
                 .setDrawerLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
@@ -67,11 +68,13 @@ public class HomePage extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
-            case R.id.exit:
+       /*     case R.id.exit:
                 finish();
                 break;
-         //   case R.id.language:
-           //    showLanguage(); break;
+             case R.id.language:
+            showLanguage(); break;
+
+        */
             case R.id.theme:
                myTheme();
                break;
